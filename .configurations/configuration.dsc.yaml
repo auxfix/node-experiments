@@ -14,7 +14,7 @@ properties:
     - resource: Microsoft.WinGet.DSC/WinGetPackage
       id: vsPackage
       directives:
-        description: Install Visual Studio 2022 Community
+        description: Install Visual Studio 2022 Community :)
         allowPrerelease: true
       settings:
         id: Microsoft.VisualStudio.2022.Community
